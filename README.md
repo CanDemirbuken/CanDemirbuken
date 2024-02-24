@@ -6,11 +6,11 @@
 
 - 🌱 I’m currently learning **Angular**
 
-- 💬 Ask me about **C# - .NET**
+- 💬 Ask me about **C# - .NET - ASP.NET - Rest API - SQL**
 
 - 📫 How to reach me **ycandemirbuken@gmail.com**
 
-- ⚡ Fun fact **I think I can energize people**
+- ⚡ Fun fact **I think I can motivate people**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
