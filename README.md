@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=candemirbuken&label=Profile%20views&color=0e75b6&style=flat" alt="candemirbuken" /> </p>
 
-- 🌱 I’m currently learning **xUnit**
+- 🌱 I’m currently learning **CQRS**
 
 - 💬 Ask me about **C# - .NET - ASP.NET - Rest API - SQL**
 
